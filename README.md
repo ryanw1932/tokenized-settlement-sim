@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tokenized Deposit Settlement Simulator
 
 A PostgreSQL double-entry ledger with a FastAPI front end, plus a simulator that compares
@@ -45,3 +46,7 @@ Record your own results here after running on your machine:
 | 50 | | | |
 
 Expect throughput to fall and p95 to rise as workers increase: with only 6 accounts, transfers queue on hot row locks.
+=======
+# Tokenized-Deposit-Settlement-Simulator
+will add later 
+>>>>>>> 63606daa04ddba7587b78091bb62486d25d35b2b
